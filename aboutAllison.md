@@ -6,4 +6,4 @@ I'm bad at code. My commit history embarasses me.
 
 I want one of these right now:
 
-![img](http://orderinnout.com/assets/innout.png)
+![img](http://media2.giphy.com/media/13YOUThVXTPeDu/giphy.gif)
