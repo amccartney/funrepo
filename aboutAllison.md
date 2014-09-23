@@ -1,6 +1,3 @@
-README
-++++++++++
-
 Hey I'm Allison and I live in Redwood City and go to [Stanford](www.stanford.edu)
 
 Life is pretty good I guess
